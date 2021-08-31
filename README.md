@@ -1,5 +1,5 @@
 # JamesBondWithPerfume
-You can read the instruction in the game. 
+You can read the instructions in the game. 
 You can also play fullscreen.
 
 link to site: https://filipafe.github.io/JamesBondWithPerfume/
